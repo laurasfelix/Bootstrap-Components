@@ -1,0 +1,14 @@
+.carousel {
+  max-width: 30vw;
+  display: inline-block;
+}
+
+.card {
+  max-width: 20vw;
+}
+
+.accordion {
+  max-width: 30vw;
+  display: inline-block;
+  vertical-align: top;
+}
